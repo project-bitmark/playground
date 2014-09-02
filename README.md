@@ -12,4 +12,4 @@ A test repository for developers to test things.
 * `git push stage master` to push to the staging repo (site will auto sync)
 * `git push origin master` to push to git hub
 
-enjoy
+Contact MarkPfennig to provide your ssh key to commit to git@vps
